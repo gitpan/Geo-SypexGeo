@@ -31,9 +31,12 @@
          }
       },
       "runtime" : {
-         "requires" : {}
+         "requires" : {
+            "Encode" : "0",
+            "Text::Trim" : "0"
+         }
       }
    },
    "release_status" : "stable",
-   "version" : "0.2"
+   "version" : "0.3"
 }
